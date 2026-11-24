@@ -1,4 +1,8 @@
 # Databricks notebook source
+# /// script
+# [tool.databricks.environment]
+# environment_version = "6"
+# ///
 # MAGIC %md
 # MAGIC # Aula 2 · Construindo a target sem se enganar
 # MAGIC **FECAP · Pós em Data Analytics e IA aplicada a Negócios · Módulo 8: Versionamento e Governança de Produtos de IA**
@@ -29,6 +33,7 @@
 
 # COMMAND ----------
 
+# DBTITLE 1,SHOW TABLES
 # MAGIC %sql
 # MAGIC SHOW TABLES IN workspace.loja_aurora
 
