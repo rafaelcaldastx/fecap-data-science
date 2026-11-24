@@ -1,0 +1,121 @@
+id_produto,categoria,nome_produto,preco_lista,custo_unitario,data_lancamento
+P0001,Eletrônicos,Eletrônicos — item 0001,2409.9,1931.34,2023-11-01
+P0002,Eletrônicos,Eletrônicos — item 0002,819.9,649.11,2021-08-11
+P0003,Eletrônicos,Eletrônicos — item 0003,3169.9,2669.01,2022-10-10
+P0004,Eletrônicos,Eletrônicos — item 0004,1879.9,1588.31,2023-11-23
+P0005,Eletrônicos,Eletrônicos — item 0005,269.9,216.56,2025-01-22
+P0006,Eletrônicos,Eletrônicos — item 0006,4619.9,3831.41,2023-03-14
+P0007,Eletrônicos,Eletrônicos — item 0007,2309.9,1945.76,2022-04-24
+P0008,Eletrônicos,Eletrônicos — item 0008,2509.9,2107.47,2022-10-30
+P0009,Eletrônicos,Eletrônicos — item 0009,299.9,247.28,2025-07-31
+P0010,Eletrônicos,Eletrônicos — item 0010,849.9,708.4,2025-10-01
+P0011,Eletrônicos,Eletrônicos — item 0011,659.9,526.64,2021-10-15
+P0012,Eletrônicos,Eletrônicos — item 0012,3949.9,3187.02,2023-04-17
+P0013,Eletrônicos,Eletrônicos — item 0013,1589.9,1338.07,2022-01-14
+P0014,Eletrônicos,Eletrônicos — item 0014,2819.9,2278.85,2022-01-23
+P0015,Eletrônicos,Eletrônicos — item 0015,829.9,663.74,2022-10-03
+P0016,Eletrônicos,Eletrônicos — item 0016,409.9,346.75,2022-08-08
+P0017,Eletrônicos,Eletrônicos — item 0017,1189.9,961.29,2021-11-23
+P0018,Eletrônicos,Eletrônicos — item 0018,239.9,192.14,2022-08-11
+P0019,Eletrônicos,Eletrônicos — item 0019,2869.9,2342.25,2022-01-16
+P0020,Eletrônicos,Eletrônicos — item 0020,1519.9,1297.66,2023-04-03
+P0021,Casa Inteligente,Casa Inteligente — item 0021,159.9,105.9,2023-03-07
+P0022,Casa Inteligente,Casa Inteligente — item 0022,279.9,209.7,2023-12-12
+P0023,Casa Inteligente,Casa Inteligente — item 0023,989.9,697.46,2021-10-13
+P0024,Casa Inteligente,Casa Inteligente — item 0024,169.9,126.02,2022-10-08
+P0025,Casa Inteligente,Casa Inteligente — item 0025,99.9,70.58,2023-06-01
+P0026,Casa Inteligente,Casa Inteligente — item 0026,199.9,136.8,2023-04-05
+P0027,Casa Inteligente,Casa Inteligente — item 0027,199.9,149.82,2023-03-02
+P0028,Casa Inteligente,Casa Inteligente — item 0028,579.9,377.5,2021-08-19
+P0029,Casa Inteligente,Casa Inteligente — item 0029,429.9,313.01,2024-09-16
+P0030,Casa Inteligente,Casa Inteligente — item 0030,809.9,545.85,2022-01-31
+P0031,Casa Inteligente,Casa Inteligente — item 0031,579.9,421.78,2022-11-25
+P0032,Casa Inteligente,Casa Inteligente — item 0032,279.9,197.42,2021-10-11
+P0033,Eletrodomésticos,Eletrodomésticos — item 0033,409.9,334.03,2022-01-17
+P0034,Eletrodomésticos,Eletrodomésticos — item 0034,999.9,742.52,2023-08-01
+P0035,Eletrodomésticos,Eletrodomésticos — item 0035,269.9,214.16,2023-04-11
+P0036,Eletrodomésticos,Eletrodomésticos — item 0036,2499.9,1849.04,2023-12-12
+P0037,Eletrodomésticos,Eletrodomésticos — item 0037,1809.9,1366.69,2023-04-28
+P0038,Eletrodomésticos,Eletrodomésticos — item 0038,1589.9,1241.42,2025-03-29
+P0039,Eletrodomésticos,Eletrodomésticos — item 0039,619.9,479.61,2022-01-05
+P0040,Eletrodomésticos,Eletrodomésticos — item 0040,1169.9,929.86,2023-05-06
+P0041,Eletrodomésticos,Eletrodomésticos — item 0041,1019.9,801.0,2023-02-08
+P0042,Eletrodomésticos,Eletrodomésticos — item 0042,1259.9,938.8,2021-12-19
+P0043,Eletrodomésticos,Eletrodomésticos — item 0043,199.9,154.97,2022-05-12
+P0044,Eletrodomésticos,Eletrodomésticos — item 0044,589.9,471.48,2022-05-06
+P0045,Eletrodomésticos,Eletrodomésticos — item 0045,169.9,129.13,2023-03-19
+P0046,Eletrodomésticos,Eletrodomésticos — item 0046,759.9,564.9,2023-09-27
+P0047,Eletrodomésticos,Eletrodomésticos — item 0047,439.9,361.03,2022-08-27
+P0048,Eletrodomésticos,Eletrodomésticos — item 0048,239.9,180.16,2024-12-18
+P0049,Moda,Moda — item 0049,79.9,42.59,2026-03-16
+P0050,Moda,Moda — item 0050,359.9,187.35,2023-08-17
+P0051,Moda,Moda — item 0051,79.9,29.37,2023-04-24
+P0052,Moda,Moda — item 0052,129.9,50.53,2024-10-26
+P0053,Moda,Moda — item 0053,69.9,31.44,2021-09-13
+P0054,Moda,Moda — item 0054,339.9,173.17,2023-12-20
+P0055,Moda,Moda — item 0055,59.9,24.61,2023-04-10
+P0056,Moda,Moda — item 0056,39.9,16.25,2022-10-03
+P0057,Moda,Moda — item 0057,109.9,56.71,2024-02-21
+P0058,Moda,Moda — item 0058,389.9,154.96,2022-03-29
+P0059,Moda,Moda — item 0059,309.9,165.11,2024-04-10
+P0060,Moda,Moda — item 0060,219.9,108.58,2023-01-09
+P0061,Moda,Moda — item 0061,309.9,128.35,2025-04-28
+P0062,Moda,Moda — item 0062,309.9,110.49,2023-04-19
+P0063,Moda,Moda — item 0063,129.9,56.88,2021-12-06
+P0064,Moda,Moda — item 0064,79.9,42.28,2023-09-28
+P0065,Moda,Moda — item 0065,229.9,79.87,2023-07-22
+P0066,Moda,Moda — item 0066,179.9,68.91,2021-09-14
+P0067,Moda,Moda — item 0067,89.9,34.82,2022-05-14
+P0068,Moda,Moda — item 0068,49.9,18.84,2023-09-25
+P0069,Moda,Moda — item 0069,219.9,111.89,2022-02-12
+P0070,Moda,Moda — item 0070,69.9,25.8,2022-07-05
+P0071,Moda,Moda — item 0071,339.9,159.49,2021-09-20
+P0072,Moda,Moda — item 0072,69.9,29.12,2025-02-04
+P0073,Beleza,Beleza — item 0073,59.9,35.28,2021-12-15
+P0074,Beleza,Beleza — item 0074,39.9,19.22,2023-11-14
+P0075,Beleza,Beleza — item 0075,29.9,15.59,2021-07-30
+P0076,Beleza,Beleza — item 0076,129.9,55.21,2025-04-13
+P0077,Beleza,Beleza — item 0077,159.9,94.55,2021-10-23
+P0078,Beleza,Beleza — item 0078,19.9,10.95,2023-06-02
+P0079,Beleza,Beleza — item 0079,19.9,10.28,2023-12-26
+P0080,Beleza,Beleza — item 0080,89.9,44.52,2023-01-30
+P0081,Beleza,Beleza — item 0081,29.9,12.96,2023-01-03
+P0082,Beleza,Beleza — item 0082,159.9,92.77,2026-04-14
+P0083,Beleza,Beleza — item 0083,39.9,16.74,2024-11-05
+P0084,Beleza,Beleza — item 0084,29.9,13.28,2022-01-10
+P0085,Beleza,Beleza — item 0085,199.9,88.8,2021-12-19
+P0086,Beleza,Beleza — item 0086,29.9,14.86,2025-05-11
+P0087,Beleza,Beleza — item 0087,39.9,20.25,2022-04-24
+P0088,Beleza,Beleza — item 0088,29.9,16.35,2022-06-05
+P0089,Beleza,Beleza — item 0089,29.9,15.08,2022-07-07
+P0090,Beleza,Beleza — item 0090,19.9,10.48,2023-06-06
+P0091,Esporte,Esporte — item 0091,139.9,88.68,2023-12-01
+P0092,Esporte,Esporte — item 0092,169.9,96.64,2024-07-25
+P0093,Esporte,Esporte — item 0093,459.9,303.01,2022-06-08
+P0094,Esporte,Esporte — item 0094,129.9,73.25,2023-10-08
+P0095,Esporte,Esporte — item 0095,1099.9,583.22,2021-08-21
+P0096,Esporte,Esporte — item 0096,989.9,546.28,2021-08-22
+P0097,Esporte,Esporte — item 0097,239.9,133.09,2021-09-15
+P0098,Esporte,Esporte — item 0098,139.9,89.46,2021-09-02
+P0099,Esporte,Esporte — item 0099,279.9,186.08,2023-08-04
+P0100,Esporte,Esporte — item 0100,789.9,465.73,2023-07-31
+P0101,Esporte,Esporte — item 0101,419.9,254.23,2022-03-18
+P0102,Esporte,Esporte — item 0102,679.9,375.39,2022-02-13
+P0103,Esporte,Esporte — item 0103,279.9,163.48,2026-02-04
+P0104,Esporte,Esporte — item 0104,389.9,257.83,2023-09-16
+P0105,Brinquedos,Brinquedos — item 0105,209.9,113.44,2024-12-09
+P0106,Brinquedos,Brinquedos — item 0106,99.9,55.32,2022-01-29
+P0107,Brinquedos,Brinquedos — item 0107,299.9,138.68,2021-12-01
+P0108,Brinquedos,Brinquedos — item 0108,219.9,136.05,2026-05-07
+P0109,Brinquedos,Brinquedos — item 0109,79.9,41.97,2022-10-28
+P0110,Brinquedos,Brinquedos — item 0110,439.9,227.21,2022-07-21
+P0111,Brinquedos,Brinquedos — item 0111,289.9,161.83,2025-02-09
+P0112,Brinquedos,Brinquedos — item 0112,69.9,38.97,2023-04-11
+P0113,Brinquedos,Brinquedos — item 0113,89.9,52.65,2025-11-03
+P0114,Brinquedos,Brinquedos — item 0114,79.9,49.55,2025-12-10
+P0115,Brinquedos,Brinquedos — item 0115,49.9,24.04,2022-01-31
+P0116,Brinquedos,Brinquedos — item 0116,49.9,30.98,2026-01-28
+P0117,Brinquedos,Brinquedos — item 0117,489.9,254.83,2022-06-20
+P0118,Brinquedos,Brinquedos — item 0118,109.9,52.59,2023-10-12
+P0119,Brinquedos,Brinquedos — item 0119,89.9,53.64,2021-11-24
+P0120,Brinquedos,Brinquedos — item 0120,259.9,157.06,2025-12-06

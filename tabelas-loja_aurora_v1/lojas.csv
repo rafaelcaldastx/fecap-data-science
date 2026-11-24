@@ -1,0 +1,8 @@
+id_loja,nome_loja,cidade,uf,tipo,data_inauguracao
+L01,Aurora Paulista,São Paulo,SP,física,2015-03-10
+L02,Aurora Campinas,Campinas,SP,física,2018-08-22
+L03,Aurora Barra,Rio de Janeiro,RJ,física,2016-11-05
+L04,Aurora Savassi,Belo Horizonte,MG,física,2019-04-17
+L05,Aurora Curitiba,Curitiba,PR,física,2021-09-30
+L06,Aurora Salvador,Salvador,BA,física,2023-06-12
+ECOM,Aurora Digital (site + app),Nacional,BR,digital,2017-01-15
